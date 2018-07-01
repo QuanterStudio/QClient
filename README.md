@@ -2,8 +2,8 @@
 
 #### 数字货币行情客户端Demo源码
 　QClient是C++客户端Demo源代码，用于演示如何连接蓝目行情网关，以统一化的数据格式，从蓝目数字货币行情网关获取各种行情数据。数据货币爱好者可以将此代码结合到自己的策略中，获取多个市场的行情并进行交易。<br>
-  蓝目数据提供了全球各大主流数字资产交易所的全部品种的实时交易行情和各类历史数据，供专业的投资机构和个人宽客使用。数据包含了实时数据ticker, 深度数据depth, 各周期历史kline.并且提供了各个交易所的委托下单、委托撤单、交易信息查询等接口。
-  目前支持的数字资产交易所包括：bitfinex, kraken, bitstamp, bittrex, okex, huobi, binance, bitmex,zb, poloniex, bithumb. 提供详细的API访问接口文档，以及针对python, C++ 和java 的客户端访问源码。<br>
+　蓝目数据提供了全球各大主流数字资产交易所的全部品种的实时交易行情和各类历史数据，供专业的投资机构和个人宽客使用。数据包含了实时数据ticker, 深度数据depth, 各周期历史kline.并且提供了各个交易所的委托下单、委托撤单、交易信息查询等接口。<br>
+　目前支持的数字资产交易所包括：bitfinex, kraken, bitstamp, bittrex, okex, huobi, binance, bitmex,zb, poloniex, bithumb. 提供详细的API访问接口文档，以及针对python, C++ 和java 的客户端访问源码。<br>
 　[官方网站](https://www.blueye.info)
 
 
